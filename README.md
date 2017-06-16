@@ -1,2 +1,2 @@
 # Udacity
-Free Lessons of Courses offered by Udacity
+Lessons from Some Free Courses offered by Udacity
