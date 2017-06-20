@@ -1,0 +1,23 @@
+PassengerId:	Unique Id for each passenger
+
+survived:		Variable representating survived passenger. 0-Dead, 1-Alive
+
+pcalss:		Ticket Class. 1-1st, 2-2nd, 3-3rd
+
+Name:		Name of the passenger
+
+sex:		Sex of passenger
+
+Age:		Age of Passenger
+
+sibsp:		number of siblings/spouse aboard the Titanic
+
+parch:		number of parents/children aboard the Titanic
+
+ticket:		Ticket Number
+
+fare:		Passenger Fare
+
+cabin:		Cabin Number
+
+embarked:	Port of Embarkation. C-Cherbourg, Q-Queenstown, S-Southampton
